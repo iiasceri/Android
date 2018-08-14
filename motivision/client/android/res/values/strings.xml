@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MontiVision</string>
+    <string name="domain">"http://142.93.173.191:8080"</string>
+
+
+</resources>
